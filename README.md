@@ -45,7 +45,7 @@ cd NOSS-2023
 2. Install dependencies.
 
 ```bash
-pip install -r requireeements.txt
+pip install -r requirements.txt
 ```
 3. Run the notebook.
 
